@@ -37,6 +37,7 @@ https://leetcode.com/problems/delete-node-in-a-linked-list/description/
 
 ## Solution
 
+```
 class Solution {
     public void deleteNode(ListNode node) {
         if(node.next.next==null)
@@ -51,3 +52,5 @@ class Solution {
         
     }
 }
+```
+
