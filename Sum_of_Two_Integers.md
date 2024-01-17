@@ -20,7 +20,7 @@ Output: 5
 -1000 <= a, b <= 1000
 
 ## Solution
-
+```
 class Solution {
     public int getSum(int a, int b) {
         if(b==0)
@@ -29,3 +29,6 @@ class Solution {
         return getSum(a^b,(a&b)<<1);
     }
 }
+
+```
+
