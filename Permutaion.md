@@ -1,5 +1,12 @@
 # Permutation
 
+
+## Link
+
+1. https://www.youtube.com/watch?v=f2ic2Rsc9pU
+2. https://www.youtube.com/watch?v=YK78FU5Ffjw
+3. https://leetcode.com/problems/permutations/
+
 ## Question
 
 Given an array nums of distinct integers, return all the possible permutations. You can return the answer in any order.
